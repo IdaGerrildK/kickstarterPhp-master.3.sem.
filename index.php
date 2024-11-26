@@ -46,6 +46,7 @@ require "settings/init.php";
 	}
 	?>
 </div>
+<h1>hej</h1>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
