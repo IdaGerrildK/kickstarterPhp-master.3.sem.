@@ -7,6 +7,8 @@ require "settings/init.php";
 	<meta charset="utf-8">
 	
 	<title>Sigende titel</title>
+
+    <h1>yolo</h1>
 	
 	<meta name="robots" content="All">
 	<meta name="author" content="Udgiver">
