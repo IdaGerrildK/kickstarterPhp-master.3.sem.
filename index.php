@@ -84,8 +84,8 @@ require "settings/init.php";
         <div class="card">
             <img src="img/morten.jpeg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Morten</h2>
-                <p class="card-text text-center">Influencer</p>
+                <h2 class="card-title text-center">Genanvendelse</h2>
+                <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
@@ -96,8 +96,8 @@ require "settings/init.php";
         <div class="card">
             <img src="img/laura.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Laura</h2>
-                <p class="card-text text-center">Deltager fra Masterchef</p>
+                <h2 class="card-title text-center">Hvad kan du selv gribe an?</h2>
+                <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success button-center">Læs mere</button></a>
                 </div>
@@ -108,8 +108,8 @@ require "settings/init.php";
         <div class="card">
             <img src="img/naja.webp" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Naja</h2>
-                <p class="card-text text-center">Influencer</p>
+                <h2 class="card-title text-center">DIY´s her</h2>
+                <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
@@ -120,8 +120,8 @@ require "settings/init.php";
         <div class="card">
             <img src="img/gustav.png" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Gustav</h2>
-                <p class="card-text text-center">Vinder af Masterchef - De Unge Talenter</p>
+                <h2 class="card-title text-center">Plastikreduktion</h2>
+                <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
