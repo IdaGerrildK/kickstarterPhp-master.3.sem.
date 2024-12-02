@@ -63,7 +63,7 @@ require "settings/init.php";
                 </li>
             </ul>
             <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Søg efter opskrift her..." aria-label="Search">
+                <input class="form-control me-2" type="search" placeholder="Søg her..." aria-label="Search">
                 <button class="btn btn-outline-success" type="submit">Søg</button>
             </form>
         </div>
