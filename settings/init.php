@@ -33,7 +33,7 @@ if(CONFIG_LIVE == 0) {
     $DB_SERVER = "localhost";
     $DB_NAME = "";
     $DB_USER = "root";
-    $DB_PASS = "root";
+    $DB_PASS = "";
 } else if(CONFIG_LIVE == 1) {
     $DB_SERVER = "";
     $DB_NAME = "";
