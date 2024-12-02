@@ -3,6 +3,11 @@
 
 // 2. Include any default variable overrides here
 $link-decoration: none;
+$primary: #F1F0E2;
+$secondary: #5C4F3E;
+$success: #C2CE9E;
+$warning: #12562aff;
+$font-family-base: "Chalkboard SE";
 
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
@@ -10,7 +15,7 @@ $link-decoration: none;
 
 // 4. Include any default map overrides here
 $custom-colors: (
-	"farve": $cyan-400,
+				"farve": $cyan-400,
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
@@ -18,3 +23,39 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @import "bootstrapComponents";
 
 // 5. Du kan lave styling her...
+
+body{
+	background-color: $primary;
+}
+
+.card-body{
+	background-color: $secondary;
+}
+
+.btn {
+	background-color: $warning;
+}
+
+.element-to-move-front{
+	z-index: 1;
+	position: relative;
+}
+
+.logo {
+	width: 275px;
+	height: 125px;
+	top: 0;
+	left: 0;
+}
+.logo2 {
+	width: 100px;
+	height: 225px;
+	top: 0;
+	left: 0;
+
+}
+.navbar
+{
+	font-size: x-large;
+}
+
