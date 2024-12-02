@@ -43,7 +43,7 @@ if(CONFIG_LIVE == 0) {
     $DB_SERVER = "mariadb-standard";
     $DB_NAME = "webshop";
     $DB_USER = "user";
-    $DB_PASS = "secretPassword";
+    $DB_PASS = "YES";
 }
 
 $db = new db($DB_SERVER, $DB_NAME, $DB_USER, $DB_PASS);
