@@ -6,7 +6,7 @@ require "settings/init.php";
 <head>
     <meta charset="utf-8">
 
-    <title>Mad for grønskollinger</title>
+    <title>Spring - grøn digitalisering</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -31,31 +31,31 @@ require "settings/init.php";
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Måltider
+                        DIY's
                     </a>
                     <ul class="dropdown-menu">
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">Morgenmad</a>
+                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 1</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">Frokost</a>
+                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 2</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">Aftensmad</a>
+                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 3</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">Dessert</a>
+                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 4</a>
                         </li>
                         <li class="nav-item d-md-none">
                         </li>
                     </ul>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="omforeningen.html">Om foreningen</a>
+                    <a class="nav-link" href="omforeningen.html">Book os</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="minkonto.html">Min konto</a>
+                    <a class="nav-link" href="minkonto.html">Kontakt os</a>
                 </li>
 
                 <li class="nav-item">
@@ -79,7 +79,6 @@ require "settings/init.php";
 <br>
 <br>
 <br>
-<h1 class="text-success text-fluid text-center d-none d-lg-block text-bg-secondary p-3">Mød vores Grønskolling-repræsentanter</h1>
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
