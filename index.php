@@ -2,11 +2,11 @@
 require "settings/init.php";
 ?>
 <!DOCTYPE html>
-<html lang="da">
+<html lang="da" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
 
-    <title>Spring - grøn digitalisering</title>
+    <title>Spring - spring ud i det grønne</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -71,14 +71,20 @@ require "settings/init.php";
 </nav>
 <br>
 <br>
-<h2 class="text-success text-center d-none d-lg-block">Ep. 8: Influencers mod Masterchef-deltagere:</h2>
-<h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Hvem laver den bedste (og mest kreative) veganske peberkage?</h1>
+<h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
+    Influencers springer ud i det grønne:</h2>
+<h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
 <a href="https://www.youtube.com/">
-    <img src="img/mortenmasterchef3.png" class="img-fluid" alt="Youtube video med Morten, Naja, Gustav og Naja">
+    <img src="img/paluch.momme.jpg" class="img-fluid" alt="Youtube video med Morten, Naja, Gustav og Naja">
 </a>
 <br>
 <br>
 <br>
+<br>
+<br>
+
+<h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Hvad kan du selv gribe an?</h1>
+
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
@@ -96,7 +102,7 @@ require "settings/init.php";
         <div class="card">
             <img src="img/laura.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Hvad kan du selv gribe an?</h2>
+                <h2 class="card-title text-center">Energibesparelse</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success button-center">Læs mere</button></a>
@@ -108,7 +114,7 @@ require "settings/init.php";
         <div class="card">
             <img src="img/naja.webp" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">DIY´s her</h2>
+                <h2 class="card-title text-center">Plastikreduktion</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
@@ -120,7 +126,7 @@ require "settings/init.php";
         <div class="card">
             <img src="img/gustav.png" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Plastikreduktion</h2>
+                <h2 class="card-title text-center">Grønne DIY's</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
                     <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
@@ -129,13 +135,14 @@ require "settings/init.php";
         </div>
     </div>
 </div>
+<br>
+<br>
 
 <div class="card mb-3">
     <img class="card-img-bottom" src="img/teenagerscooking.jpg" alt="Card image cap">
     <div class="card-body">
         <div class="text-center">
-            <h3 class="card-title">Alle skal have muligheden for at lære at lave god mad!
-                For dig, dyrene og miljøets skyld!</h3>
+            <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
             <br>
             <a href="omforeningen.html">
                 <button type="button" class="btn btn-outline-success btn-lg" role="button">Lær mere om vores værdier her</button></a>
@@ -146,6 +153,22 @@ require "settings/init.php";
 </div>
 <br>
 <br>
+
+
+<div class="card mb-3">
+<img class="card-img-bottom" src="img/teenagerscooking.jpg" alt="Card image cap">
+<div class="card-body">
+    <div class="text-center">
+        <h3 class="card-title">Følg os på de sociale medier!</h3>
+        <p class="card-text">Hvorfor ikke have muligheden for at have os med på farten, når du handler ind til dit næste Grønskolling-mesterværk? Eller i køkkenet, når du er igang? Du vil da heller ikke gå glip af vores mange konkurrencer heller?
+            <br>
+        <a href="omforeningen.html">
+        <br>
+        <br>
+    </div>
+</div>
+</div>
+
 <a href="index.html">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/logo150.png" alt="Profil billede" class="img-fluid rounded-circle" width="150">
@@ -154,45 +177,7 @@ require "settings/init.php";
     </div>
 </a>
 <br>
-<div class="row g-4">
-    <div class="col-6 col-md-4 col-lg-3">
-        <div class="text-dark-emphasis container-fluid text-center text-bg-light">
-            <div class="card mb-3 card-bg" style="max-width: 540px;">
-                <img src="img/mortenmobil.png" class="img-fluid rounded-start" alt="Mortenpåtiktok">
-                <div class="card-body">
-                    <h5 class="card-title">Følg os på de sociale medier!</h5>
-                    <br>
-                    <p class="card-text">Hvorfor ikke have muligheden for at have os med på farten, når du handler ind til dit næste Grønskolling-mesterværk? Eller i køkkenet, når du er igang? Du vil da heller ikke gå glip af vores mange konkurrencer heller?
-                    <div class="row g-4">
-                        <div class="col-6 col-md-4 col-lg-3">
-                            <div class="d-flex justify-content-center align-items-center flex-wrap">
-                                <a href="https://www.tiktok.com">
-                                    <img src="img/tiktoklogotegnet.png" class="img-fluid rounded-start" alt="tiktok link">
-                                    <span><a class="text-success" href="https://tiktok.com">Tiktok</a></span>
-                                </a>
-                                <br>
-                                <br>
-                                <div class="d-flex justify-content-center align-items-center flex-wrap">
-                                    <a href="https://www.instagram.com">
-                                        <img src="img/instalogotegning.png" class="img-fluid rounded-" alt="instagram link">
-                                        <span><a class="text-success" href="https://www.instagram.com">Instagram</a></span>
-                                    </a>
-                                </div>
-                                <br>
-                                <div class="d-flex justify-content-center align-items-center flex-wrap">
-                                    <a href="https://www.facebook.com">
-                                        <img src="img/facebooklogotegning.png" class="img-fluid rounded-start" alt="facebook link">
-                                        <span><a class="text-success" href="https://www.facebook.com">Facebook</a></span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
