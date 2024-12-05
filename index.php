@@ -30,7 +30,7 @@ require "settings/init.php";
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle text-primary" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         DIY's
                     </a>
                     <ul class="dropdown-menu">
@@ -51,11 +51,11 @@ require "settings/init.php";
                     </ul>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="omforeningen.html">Book os</a>
+                    <a class="nav-link text-primary" href="omforeningen.html">Book os</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="minkonto.html">Kontakt os</a>
+                    <a class="nav-link text-primary" href="minkonto.html">Kontakt os</a>
                 </li>
 
                 <li class="nav-item">
