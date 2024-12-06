@@ -18,7 +18,7 @@ require "settings/init.php";
 
 
 </head>
-<body>
+<body class="">
 <div class="bg-light py-2 text-center">
     <a class="navbar-brand" href="index.html"><img class="logo" src="img/fuldlogogroenskrift.png" alt="logo"></a>
 </div>
