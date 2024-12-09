@@ -75,7 +75,7 @@ require "settings/init.php";
     Influencers springer ud i det grønne:</h2>
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
 <a href="https://www.youtube.com/">
-    <img src="img/paluch.momme.jpg" class="img-fluid" alt="Youtube video med Morten, Naja, Gustav og Naja">
+    <img src="img/paluch.momme3.png" class="img-fluid" alt="Youtube video med Paluch og Momme">
 </a>
 <br>
 <br>
