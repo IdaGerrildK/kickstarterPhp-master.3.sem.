@@ -20,7 +20,7 @@ require "settings/init.php";
 </head>
 <body class="">
 <div class="bg-light py-2 text-center">
-    <a class="navbar-brand" href="index.html"><img class="logo" src="img/fuldlogogroenskrift.png" alt="logo"></a>
+    <a class="navbar-brand" href="index.php"><img class="logo" src="img/fuldlogogroenskrift.png" alt="logo"></a>
 </div>
 <nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
     <div class="container-fluid">
@@ -74,9 +74,11 @@ require "settings/init.php";
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
+
 <a href="https://www.youtube.com/">
     <img src="img/paluch.momme3.png" class="img-fluid" alt="Youtube video med Paluch og Momme">
 </a>
+</div>
 <br>
 <br>
 <br>
@@ -88,7 +90,7 @@ require "settings/init.php";
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/morten.jpeg" class="card-img-top" alt="...">
+            <img src="img/recycle.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Genanvendelse</h2>
                 <p class="card-text text-center"></p>
@@ -100,7 +102,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/laura.jpg" class="card-img-top" alt="...">
+            <img src="img/energibesparelse.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Energibesparelse</h2>
                 <p class="card-text text-center"></p>
@@ -112,7 +114,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/naja.webp" class="card-img-top" alt="...">
+            <img src="img/plastic.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Plastikreduktion</h2>
                 <p class="card-text text-center"></p>
@@ -124,7 +126,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/gustav.png" class="card-img-top" alt="...">
+            <img src="img/diy.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Grønne DIY's</h2>
                 <p class="card-text text-center"></p>
