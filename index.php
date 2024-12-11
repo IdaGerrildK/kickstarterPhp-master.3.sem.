@@ -95,7 +95,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Genanvendelse</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a href="Genanvendelse.html"><button type="button" class="btn btn-outline-success">Læs mere</button>
+                    <a href="Genanvendelse.html"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Energibesparelse</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a href=Energibesparelse.html> <button type="button" class="btn btn-outline-success button-center">Læs mere</button></a>
+                    <a href="Energibesparelse.html"><button type="button" class="btn btn-outline-success button-center">Læs mere</button></a>
                 </div>
             </div>
         </div>
@@ -119,7 +119,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Plastikreduktion</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a href=Plastikreduktion.html><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href="Plastikreduktion.html"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Genbrugs DIY's</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a href=GenbrugsDIY's.html><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href="GenbrugsDIY's.html"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
             </div>
         </div>
