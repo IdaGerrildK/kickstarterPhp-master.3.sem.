@@ -20,7 +20,7 @@ require "settings/init.php";
 </head>
 <body class="">
 <div class="bg-light py-2 text-center">
-    <a class="navbar-brand" href="index.php"><img class="logo" src="img/fuldlogogroenskrift.png" alt="logo"></a>
+    <a class="navbar-brand" href="index.php"><img class="logo" src="img/phoenixlogo.png" alt="logo"></a>
 </div>
 <nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
     <div class="container-fluid">
@@ -95,7 +95,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Genanvendelse</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href="Genanvendelse.html"><button type="button" class="btn btn-outline-success">Læs mere</button>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Energibesparelse</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a><button type="button" class="btn btn-outline-success button-center">Læs mere</button></a>
+                    <a href=Energibesparelse.html> <button type="button" class="btn btn-outline-success button-center">Læs mere</button></a>
                 </div>
             </div>
         </div>
@@ -119,7 +119,7 @@ require "settings/init.php";
                 <h2 class="card-title text-center">Plastikreduktion</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href=Plastikreduktion.html><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
             </div>
         </div>
@@ -128,10 +128,10 @@ require "settings/init.php";
         <div class="card">
             <img src="img/diy.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h2 class="card-title text-center">Grønne DIY's</h2>
+                <h2 class="card-title text-center">Genbrugs DIY's</h2>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href=GenbrugsDIY's.html><button type="button" class="btn btn-outline-success">Læs mere</button></a>
                 </div>
             </div>
         </div>
