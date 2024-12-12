@@ -10,6 +10,20 @@ $warning: #12562aff;
 $brg: #FEFEFE;
 $font-family-base: "Kirang Haerang";
 
+.kirang-haerang-regular {
+	font-family: "Kirang Haerang", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.karla-uniquifier {
+	font-family: "Karla", serif;
+	font-optical-sizing: auto;
+	font-weight: weight;
+	font-style: normal;
+}
+
+
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/variables-dark";
