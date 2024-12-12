@@ -78,7 +78,6 @@ require "settings/init.php";
 <a href="https://www.youtube.com/">
     <img src="img/paluch.momme3.png" class="img-fluid" alt="Youtube video med Paluch og Momme">
 </a>
-</div>
 <br>
 <br>
 <br>
@@ -143,7 +142,7 @@ require "settings/init.php";
 <div class="card mb-3">
     <img class="card-img-bottom" src="img/teenagerscooking.jpg" alt="Card image cap">
     <div class="card-body">
-        <div class="text-center">
+        <div class="text-center text-primary">
             <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
             <br>
             <a href="omforeningen.html">
@@ -160,7 +159,7 @@ require "settings/init.php";
 <div class="card mb-3">
 <img class="card-img-bottom" src="img/teenagerscooking.jpg" alt="Card image cap">
 <div class="card-body">
-    <div class="text-center">
+    <div class="text-center text-primary">
         <h3 class="card-title">Følg os på de sociale medier!</h3>
         <p class="card-text">Hvorfor ikke have muligheden for at have os med på farten, når du handler ind til dit næste Grønskolling-mesterværk? Eller i køkkenet, når du er igang? Du vil da heller ikke gå glip af vores mange konkurrencer heller?
             <br>
