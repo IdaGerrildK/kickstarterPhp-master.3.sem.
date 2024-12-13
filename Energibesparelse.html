@@ -114,6 +114,19 @@
 </div>
 
 
+<h1>Plant et træ!</h1>
+<p>Klik på knappen for at plante et træ og gøre noget godt for klimaet!</p>
+<button onclick="plantTree()">Plant træet</button>
+<img id="tree" src="tree.png" alt="Et træ" width="200">
 
+
+<script>
+    function plantTree() {
+        const treeImage = document.getElementById("tree");
+        treeImage.style.display = "block"; // Vis billedet
+        alert("Du har plantet et træ! Godt gået!");
+    }
+</script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
