@@ -161,8 +161,7 @@ require "settings/init.php";
 <div class="card-body">
     <div class="text-center text-primary">
         <h3 class="card-title">Følg os på de sociale medier!</h3>
-        <p class="card-text">Hvorfor ikke have muligheden for at have os med på farten, når du handler ind til dit næste Grønskolling-mesterværk? Eller i køkkenet, når du er igang? Du vil da heller ikke gå glip af vores mange konkurrencer heller?
-            <br>
+        <p class="card-text">Du skal da ikke misse muligheden for at deltage i vores konkurrencer, eller opleve vores fede challenges?</p>
         <a href="omforeningen.html">
         <br>
         <br>
