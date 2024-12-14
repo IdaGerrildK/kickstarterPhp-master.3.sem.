@@ -181,6 +181,8 @@ require "settings/init.php";
 <a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/facebook3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
+        <img src="img/linkedin3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
+        <img src="img/tiktok.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
         <div class="mt-3">
         </div>
     </div>
@@ -195,8 +197,8 @@ require "settings/init.php";
             </div>
         </a>
         <br>
-<a
-    </nav>
+    </div>
+
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
