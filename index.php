@@ -20,14 +20,14 @@ require "settings/init.php";
 </head>
 <body class="">
 <br>
-<a href="index.html">
+<a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/logo1.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
         <div class="mt-3">
         </div>
     </div>
 </a>
-<a href="index.html">
+<a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/springlogo2.webp" alt="Profil billede" class="img-fluid" width="150">
         <div class="mt-3">
@@ -85,23 +85,20 @@ require "settings/init.php";
 <br>
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
+<nav class="bg-primary">
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
 <div class="card mb-3">
     <img class="card-img-bottom" src="img/paluchmomme4.webp" alt="Card image cap">
 <a href="https://www.youtube.com/">
 </a>
 <br>
-<br>
-<br>
-<br>
-<br>
-
+    <br>
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Hvad kan du selv gribe an?</h1>
 
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/recycle.png" class="card-img-top" alt="...">
+            <img src="img/genavendelse.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Genanvendelse</h2>
                 <p class="card-text text-center"></p>
@@ -113,7 +110,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/app.webp" class="card-img-top" alt="...">
+            <img src="img/energibesparelse.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Energibesparelse</h2>
                 <p class="card-text text-center"></p>
@@ -125,7 +122,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/plastic.png" class="card-img-top" alt="...">
+            <img src="img/plastic.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Plastikreduktion</h2>
                 <p class="card-text text-center"></p>
@@ -137,7 +134,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/diy.jpg" class="card-img-top" alt="...">
+            <img src="img/diy.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Genbrugs DIY's</h2>
                 <p class="card-text text-center"></p>
@@ -200,6 +197,7 @@ require "settings/init.php";
         </a>
         <br>
 <a
+    </nav>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
