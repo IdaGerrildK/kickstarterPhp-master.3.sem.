@@ -22,18 +22,17 @@ require "settings/init.php";
 <br>
 <a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
-        <img src="img/logo1.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
+        <img src="img/logo1.webp" alt="Profil billede" href="index.php" class="img-fluid rounded-circle" width="150">
         <div class="mt-3">
         </div>
     </div>
-</a>
-<a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/springlogo2.webp" alt="Profil billede" class="img-fluid" width="150">
         <div class="mt-3">
         </div>
     </div>
 </a>
+
 <nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -85,11 +84,11 @@ require "settings/init.php";
 <br>
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
+<a href="https://www.youtube.com/">
 <nav class="bg-primary">
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
 <div class="card mb-3">
     <img class="card-img-bottom" src="img/paluchmomme4.webp" alt="Card image cap">
-<a href="https://www.youtube.com/">
 </a>
 <br>
     <br>
@@ -179,7 +178,7 @@ require "settings/init.php";
 
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
-<a href="index.html">
+<a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/facebook3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
         <div class="mt-3">
@@ -188,7 +187,7 @@ require "settings/init.php";
 </a>
 <br>
         <br>
-        <a href="index.html">
+        <a href="index.php">
             <div class="d-flex flex-column align-items-center text-center">
                 <img src="img/logo1.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
                 <div class="mt-3">
