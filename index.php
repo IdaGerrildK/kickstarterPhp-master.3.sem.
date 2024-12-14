@@ -47,27 +47,27 @@ require "settings/init.php";
                     </a>
                     <ul class="dropdown-menu">
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 1</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 1</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 2</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 2</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 3</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 3</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="morgenmad.html" role="button">DIY 4</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 4</a>
                         </li>
                         <li class="nav-item d-md-none">
                         </li>
                     </ul>
 
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="omforeningen.html">Book os</a>
+                    <a class="nav-link text-primary" href="">Book os</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="minkonto.html">Kontakt os</a>
+                    <a class="nav-link text-primary" href="">Kontakt os</a>
                 </li>
 
                 <li class="nav-item">
@@ -86,9 +86,9 @@ require "settings/init.php";
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
-
+<div class="card mb-3">
+    <img class="card-img-bottom" src="img/paluchmomme4.webp" alt="Card image cap">
 <a href="https://www.youtube.com/">
-    <img src="img/paluchmomme4.webp" class="img-fluid" alt="Youtube video med Paluch og Momme">
 </a>
 <br>
 <br>
@@ -169,7 +169,6 @@ require "settings/init.php";
 
 
 <div class="card mb-3">
-<img class="card-img-bottom" src="" alt="Card image cap">
 <div class="card-body">
     <div class="text-center text-primary">
         <h3 class="card-title">Følg os på de sociale medier!</h3>
