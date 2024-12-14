@@ -19,9 +19,15 @@ require "settings/init.php";
 
 </head>
 <body class="">
-<div class="bg-light py-2 text-center">
-    <a class="navbar-brand" href="index.php"><img class="logo" src="img/phoenixlogo.png" alt="logo"></a>
-</div>
+<br>
+<a href="index.html">
+    <div class="d-flex flex-column align-items-center text-center">
+        <img src="img/logo1.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
+        <div class="mt-3">
+        </div>
+    </div>
+</a>
+<br>
 <nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -76,7 +82,7 @@ require "settings/init.php";
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
 
 <a href="https://www.youtube.com/">
-    <img src="img/paluch.momme3.png" class="img-fluid" alt="Youtube video med Paluch og Momme">
+    <img src="img/paluchmomme4.webp" class="img-fluid" alt="Youtube video med Paluch og Momme">
 </a>
 <br>
 <br>
@@ -101,7 +107,7 @@ require "settings/init.php";
     </div>
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
-            <img src="img/energibesparelse.png" class="card-img-top" alt="...">
+            <img src="img/app.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h2 class="card-title text-center">Energibesparelse</h2>
                 <p class="card-text text-center"></p>
@@ -140,7 +146,7 @@ require "settings/init.php";
 <br>
 
 <div class="card mb-3">
-    <img class="card-img-bottom" src="img/teenagerscooking.jpg" alt="Card image cap">
+    <img class="card-img-bottom" src="img/oplaeg2.webp" alt="Card image cap">
     <div class="card-body">
         <div class="text-center text-primary">
             <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
@@ -157,7 +163,7 @@ require "settings/init.php";
 
 
 <div class="card mb-3">
-<img class="card-img-bottom" src="img/teenagerscooking.jpg" alt="Card image cap">
+<img class="card-img-bottom" src="" alt="Card image cap">
 <div class="card-body">
     <div class="text-center text-primary">
         <h3 class="card-title">Følg os på de sociale medier!</h3>
@@ -169,15 +175,26 @@ require "settings/init.php";
 </div>
 </div>
 
+<div class="row g-4">
+    <div class="col-6 col-md-4 col-lg-3">
 <a href="index.html">
     <div class="d-flex flex-column align-items-center text-center">
-        <img src="img/logo150.png" alt="Profil billede" class="img-fluid rounded-circle" width="150">
+        <img src="img/facebook3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
         <div class="mt-3">
         </div>
     </div>
 </a>
 <br>
-
+        <br>
+        <a href="index.html">
+            <div class="d-flex flex-column align-items-center text-center">
+                <img src="img/logo1.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
+                <div class="mt-3">
+                </div>
+            </div>
+        </a>
+        <br>
+<a
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
