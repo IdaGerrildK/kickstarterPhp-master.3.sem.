@@ -27,7 +27,13 @@ require "settings/init.php";
         </div>
     </div>
 </a>
-<br>
+<a href="index.html">
+    <div class="d-flex flex-column align-items-center text-center">
+        <img src="img/springlogo2.webp" alt="Profil billede" class="img-fluid" width="150">
+        <div class="mt-3">
+        </div>
+    </div>
+</a>
 <nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
