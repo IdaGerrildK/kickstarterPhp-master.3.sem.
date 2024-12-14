@@ -92,6 +92,9 @@ require "settings/init.php";
 </a>
 <br>
     <br>
+
+<h1>Her indsættes infografik---></h1>
+<br>
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Hvad kan du selv gribe an?</h1>
 
 <div class="row g-4">
@@ -178,15 +181,13 @@ require "settings/init.php";
 
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
-<a href="index.php">
+    <a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/facebook3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
         <img src="img/linkedin3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
         <img src="img/tiktok.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
-        <div class="mt-3">
         </div>
     </div>
-</a>
 <br>
         <br>
         <a href="index.php">
