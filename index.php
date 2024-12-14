@@ -82,6 +82,7 @@ require "settings/init.php";
 </nav>
 <br>
 <br>
+<h1>Her indsættes infografik---></h1>
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
 <a href="https://www.youtube.com/">
@@ -90,10 +91,7 @@ require "settings/init.php";
 <div class="card mb-3">
     <img class="card-img-bottom" src="img/paluchmomme4.webp" alt="Card image cap">
 </a>
-<br>
-    <br>
 
-<h1>Her indsættes infografik---></h1>
 <br>
 <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Hvad kan du selv gribe an?</h1>
 
