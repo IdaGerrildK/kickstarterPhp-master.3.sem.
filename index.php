@@ -82,7 +82,8 @@ require "settings/init.php";
 <br>
 <br>
 
-<img src="img/infografikigen.webp" class="img-fluid" width="425"<br>
+<img src="img/infografikigen.webp" class="img-fluid d-block mx-auto"
+<br>
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
 <a href="https://www.youtube.com/">
