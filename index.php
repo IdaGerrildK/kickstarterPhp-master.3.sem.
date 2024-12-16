@@ -45,16 +45,16 @@ require "settings/init.php";
                     </a>
                     <ul class="dropdown-menu">
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 1</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">Forår</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 2</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">Sommer</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 3</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">Efterår</a>
                         </li>
                         <li class="nav-item w-100">
-                            <a class="btn btn-outline-success w-100" href="" role="button">DIY 4</a>
+                            <a class="btn btn-outline-success w-100" href="" role="button">Vinter</a>
                         </li>
                         <li class="nav-item d-md-none">
                         </li>
