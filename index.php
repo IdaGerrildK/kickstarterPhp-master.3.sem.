@@ -81,7 +81,6 @@ require "settings/init.php";
 </nav>
 <br>
 <br>
-<img class="card-img-bottom" src="img/infografik1.webp" alt="Card image cap">
 
 
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
@@ -150,7 +149,7 @@ require "settings/init.php";
 <br>
 
 <div class="card mb-3">
-    <img class="card-img-bottom" src="img/oplaeg2.webp" alt="Card image cap">
+    <img class="card-img-bottom" src="img/oplaeg.webp" alt="Card image cap">
     <div class="card-body">
         <div class="text-center text-primary">
             <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
@@ -177,6 +176,8 @@ require "settings/init.php";
     </div>
 </div>
 </div>
+
+<img src="img/infografik1.webp" alt="Profil billede" class="img-fluid" width="450">
 
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
