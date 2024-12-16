@@ -94,7 +94,19 @@ require "settings/init.php";
 </a>
 
 <br>
-<h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3">Hvad kan du selv gribe an?</h1>
+
+<br>
+<h2 class="text-success text-center d-none d-lg-block">Videoen herunder, henvender sig til lærerne derude, så I kan få en fornemmelse af, hvad I kan forvente, hvis I hyrer os til en time for at komme ud og holde et foredrag om miljøet på jeres skole.</h2>
+<a href="https://youtu.be/eXQDmQAS2Bc">
+    <nav class="bg-primary">
+        <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3"></h1>
+        <div class="card mb-3">
+            <img class="card-img-bottom" src="img/facebookvideolink.webp" alt="Card image cap">
+</a>
+
+<br>
+<br>
+
 
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
