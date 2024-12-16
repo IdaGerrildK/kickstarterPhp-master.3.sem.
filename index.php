@@ -177,10 +177,6 @@ require "settings/init.php";
 </div>
 </div>
 <br>
-<br>
-<div class="d-flex flex-column align-items-center text-center">
-<img src="img/infografik1.webp" alt="Profil billede" class="img-fluid" width="500">
-</div>
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
     <a href="index.php">
@@ -191,6 +187,10 @@ require "settings/init.php";
         </div>
     </div>
 <br>
+    <br>
+    <div class="d-flex flex-column align-items-center text-center">
+        <img src="img/infografik1.webp" alt="Profil billede" class="img-fluid" width="500">
+    </div>
         <br>
         <a href="index.php">
             <div class="d-flex flex-column align-items-center text-center">
