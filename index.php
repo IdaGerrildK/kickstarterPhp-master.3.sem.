@@ -82,6 +82,7 @@ require "settings/init.php";
 <br>
 <br>
 
+
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
 <a href="https://www.youtube.com/">
@@ -148,7 +149,7 @@ require "settings/init.php";
 <br>
 
 <div class="card mb-3">
-    <img class="card-img-bottom" src="img/oplaeg2.webp" alt="Card image cap">
+    <img class="card-img-bottom" src="img/oplaeg.webp" alt="Card image cap">
     <div class="card-body">
         <div class="text-center text-primary">
             <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
@@ -175,9 +176,11 @@ require "settings/init.php";
     </div>
 </div>
 </div>
-
-<img src="img/infografik1.webp" alt="Profil billede" class="img-fluid" width="450">
-
+<br>
+<br>
+<div class="d-flex flex-column align-items-center text-center">
+<img src="img/infografik1.webp" alt="Profil billede" class="img-fluid" width="500">
+</div>
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
     <a href="index.php">
