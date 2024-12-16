@@ -155,7 +155,7 @@ require "settings/init.php";
         <div class="text-center text-primary">
             <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
             <br>
-            <a href="omforeningen.html">
+            <a href="læsmereher.html">
                 <button type="button" class="btn btn-outline-success btn-lg" role="button">Lær mere om vores værdier her</button></a>
             <br>
             <br>
