@@ -16,7 +16,6 @@ require "settings/init.php";
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
 </head>
 <body class="">
 <br>
@@ -82,7 +81,8 @@ require "settings/init.php";
 </nav>
 <br>
 <br>
-<h1>Her indsættes infografik---></h1>
+<img class="card-img-bottom" src="img/infografik1.webp" alt="Card image cap">
+
 <h2 class="text-success text-center d-none d-lg-block">Ep. 3 > I samarbejde med NATURLI:
     Influencers springer ud i det grønne:</h2>
 <a href="https://www.youtube.com/">
