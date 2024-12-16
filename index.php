@@ -148,7 +148,7 @@ require "settings/init.php";
 <br>
 
 <div class="card mb-3">
-    <img class="card-img-bottom" src="img/oplaeg2.webp" alt="Card image cap">
+    <img class="card-img-bottom" src="img/oplaeg.webp" alt="Card image cap">
     <div class="card-body">
         <div class="text-center text-primary">
             <h3 class="card-title">Et lille skridt for dig, men et stort skridt for os alle!</h3>
