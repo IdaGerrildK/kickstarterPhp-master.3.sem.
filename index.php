@@ -65,7 +65,7 @@ require "settings/init.php";
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="">Kontakt os</a>
+                    <a class="nav-link text-primary" href="kontakt.html">Kontakt os</a>
                 </li>
 
                 <li class="nav-item">
