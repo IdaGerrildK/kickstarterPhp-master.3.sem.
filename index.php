@@ -86,29 +86,29 @@ require "settings/init.php";
 <br>
 <br>
 <br>
-<div class="card mb-3">
-    <div class="card-body2">
-        <div class="text-center text-success">
-            <nav class="bg-primary">
-            <h2 class="card-title">Ep. 3 > I samarbejde med NATURLI:
-                Influencers springer ud i det grønne:</h2>
-        </div>
-    </div>
-</div>
+<br>
 <div class="card mb-3">
     <div class="card-body2">
         <div class="text-center text-warning">
             <nav class="bg-primary">
+                <br>
+            <h2 class="card-title">Ep. 3 > I samarbejde med NATURLI:
+                Influencers springer ud i det grønne:</h2>
+        <div class="text-center text-primary">
+            <nav class="bg-warning">
+                <br>
             <h1 class="card-title">Paluch vs. Momme: Hvem kan leve mest miljøvenligt i 24 timer?</h1>
-        </div>
-    </div>
-</div>
+                <br>
 
 <a href="https://www.youtube.com/">
 <nav class="bg-primary">
 <div class="card mb-3">
     <img class="card-img-bottom" src="img/paluchmomme4.webp" alt="Card image cap">
 </a>
+        </div>
+        </div>
+    </div>
+</div>
 
 <br>
 <br>
@@ -188,6 +188,38 @@ require "settings/init.php";
 <br>
 <br>
 
+<div class="row g-lg-4">
+    <div class="col-12 col-md-8 col-lg-6">
+        <div class="card">
+            <img src="img/facebookvideolink.webp" class="card-img-top" alt="..." <a href="https://youtu.be/eXQDmQAS2Bc">
+            <div class="card-body">
+                <p class="card-title text-center text-primary">Videoen herover, henvender sig til lærerne derude, så I kan få en fornemmelse af,
+                    hvad I kan forvente, hvis I hyrer os til en time for at komme ud og holde et foredrag om miljøet på jeres skole</p>
+                <p class="card-text text-center"></p>
+                <div class="text-center">
+                    <a href="https://youtu.be/eXQDmQAS2Bc"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-md-8 col-lg-6">
+        <div class="card">
+            <img src="img/jord%20copy.webp" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-title text-center text-primary">Ovenfor er en tiktok video, hvor du som ung kan få indsigt i, hvad klimaet går ud på.
+                    <br> Warning: Ha' ordbogen klar, hvis du ikke er up-to-date med det nye.<br> Klik på kloden, hvis du tør</p>
+                <p class="card-text text-center"></p>
+                <div class="text-center">
+                    <a href="https://youtube.com/shorts/C6PrfudewOs"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <br>
+    <br>
+    <br>
+
 
 <h2 class="text-success text-center d-none d-lg-block">Videoen herunder, henvender sig til lærerne derude, så I kan få en fornemmelse af,
     hvad I kan forvente, hvis I hyrer os til en time for at komme ud og holde et foredrag om miljøet på jeres skole.</h2>
@@ -213,8 +245,8 @@ require "settings/init.php";
             <h3 class="card-title">Følg os på de sociale medier!</h3>
             <p class="card-text">Du skal da ikke misse muligheden for at deltage i vores konkurrencer, eller opleve vores fede challenges?</p>
             <a href="index.php">
-<div class="row g-4">
-    <div class="col-6 col-md-4 col-lg-3">
+
+                <div class="col-6 col-md-4 col-lg-3">
     <a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/facebook3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
