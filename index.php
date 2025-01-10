@@ -197,7 +197,7 @@ require "settings/init.php";
                     hvad I kan forvente, hvis I hyrer os til en time for at komme ud og holde et foredrag om miljøet på jeres skole</p>
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a href="https://youtu.be/eXQDmQAS2Bc"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href="https://youtu.be/eXQDmQAS2Bc"><button type="button" class="btn btn-outline-success">Se videoen her</button></a>
                 </div>
             </div>
         </div>
@@ -205,12 +205,14 @@ require "settings/init.php";
     <div class="col-12 col-md-8 col-lg-6">
         <div class="card">
             <img src="img/jord%20copy.webp" class="card-img-top" alt="...">
+            <a href="https://youtube.com/shorts/C6PrfudewOs">
             <div class="card-body">
                 <p class="card-title text-center text-primary">Ovenfor er en tiktok video, hvor du som ung kan få indsigt i, hvad klimaet går ud på.
-                    <br> Warning: Ha' ordbogen klar, hvis du ikke er up-to-date med det nye.<br> Klik på kloden, hvis du tør</p>
+                    <br> Warning: Ha' ordbogen klar, hvis du ikke er up-to-date med det nye.
                 <p class="card-text text-center"></p>
                 <div class="text-center">
-                    <a href="https://youtube.com/shorts/C6PrfudewOs"><button type="button" class="btn btn-outline-success">Læs mere</button></a>
+                    <a href="https://youtube.com/shorts/C6PrfudewOs"><button type="button" class="btn btn-outline-success">Se videoen her, hvis du tør</button></a>
+
                 </div>
             </div>
         </div>
@@ -220,17 +222,15 @@ require "settings/init.php";
     <br>
     <br>
 
-
 <h2 class="text-success text-center d-none d-lg-block">Videoen herunder, henvender sig til lærerne derude, så I kan få en fornemmelse af,
     hvad I kan forvente, hvis I hyrer os til en time for at komme ud og holde et foredrag om miljøet på jeres skole.</h2>
-<a href="https://youtu.be/eXQDmQAS2Bc">
     <nav class="bg-primary">
         <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3"></h1>
         <div class="card mb-3">
-            <img class="card-img-bottom img-fluid" src="img/facebookvideolink.webp" alt="Card image cap">
+            <img class="card-img-bottom img-fluid" src="img/facebookvideolink.webp" alt="Card image cap" <a href="https://youtu.be/eXQDmQAS2Bc">
 </a>
 <br><br>
-<h2 class="text-success text-center d-none d-sm-block"> Her er en tiktok video, hvor du som ung kan få indsigt i, hvad klimaet går ud på.
+<h2 class="text-success text-center d-none d-sm-block"> Her er en TikTok video, hvor du som ung kan få indsigt i, hvad klimaet går ud på.
     <br> Warning: Ha' ordbogen klar, hvis du ikke er up-to-date med det nye.<br> Klik på kloden, hvis du tør</h2>
 <a href="https://youtube.com/shorts/C6PrfudewOs">
     <nav class="bg-primary">
@@ -246,6 +246,8 @@ require "settings/init.php";
             <p class="card-text">Du skal da ikke misse muligheden for at deltage i vores konkurrencer, eller opleve vores fede challenges?</p>
             <a href="index.php">
 
+                <div class="row">
+                    <div class="col-sm-6">
                 <div class="col-6 col-md-4 col-lg-3">
     <a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
@@ -257,6 +259,10 @@ require "settings/init.php";
 </div>
         </div>
     </div>
+    </div>
+</div>
+        </div>
+    </nav>
 
     <br>
     <br>
@@ -268,7 +274,6 @@ require "settings/init.php";
             </div>
         </a>
         <br>
-    </div>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
