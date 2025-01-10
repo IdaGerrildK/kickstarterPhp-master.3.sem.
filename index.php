@@ -17,6 +17,20 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
+
+    <h3>Light/Dark Mode</h3>
+    <p>Skift til "Dark Mode" her, og spar på CO2'en!</p>
+
+    <button onclick="myFunction()">Dark Mode</button>
+
+    <script>
+        function myFunction() {
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+        }
+    </script>
+
+
 <body class="">
 <br>
 <a href="index.php">
