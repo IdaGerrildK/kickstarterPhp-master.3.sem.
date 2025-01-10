@@ -61,7 +61,7 @@ require "settings/init.php";
                     </ul>
 
                 <li class="nav-item">
-                    <a class="nav-link text-primary" href="">Book os</a>
+                    <a class="nav-link text-primary" href="bookos.html">Book os</a>
                 </li>
 
                 <li class="nav-item">
@@ -238,32 +238,20 @@ require "settings/init.php";
         <div class="card mb-3">
             <img alt src="img/jord%20copy.webp" class="img-fluid d-block">
 </a>
-
-<div class="card mb-3">
-    <div class="card-body">
-        <div class="text-center text-primary">
+    </nav>
+            <br>
+            <br>
+            <br>
+        <div class="text-center text-warning">
+            <br>
             <h3 class="card-title">Følg os på de sociale medier!</h3>
             <p class="card-text">Du skal da ikke misse muligheden for at deltage i vores konkurrencer, eller opleve vores fede challenges?</p>
-            <a href="index.php">
-
-                <div class="row">
-                    <div class="col-sm-6">
-                <div class="col-6 col-md-4 col-lg-3">
-    <a href="index.php">
-    <div class="d-flex flex-column align-items-center text-center">
-        <img src="img/facebook3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
-        <img src="img/linkedin3.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
-        <img src="img/tiktok.webp" alt="Profil billede" class="img-fluid rounded-circle" width="150">
-        </div>
-    </div>
-</div>
-        </div>
-    </div>
-    </div>
-</div>
-        </div>
-    </nav>
-
+                </div>
+<a href="index.php">
+<div class="d-flex flex-column align-items-center text-center">
+    <img src="img/facebook3.webp" alt="facebooklogo" class="img-fluid" width="150">
+    <img src="img/linkedin3.webp" alt="linkedinlogo" class="img-fluid" width="150">
+    <img src="img/tiktok.webp" alt="tiktoklogo" class="img-fluid" width="150">
     <br>
     <br>
         <a href="index.php">
