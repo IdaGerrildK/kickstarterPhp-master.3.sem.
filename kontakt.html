@@ -18,10 +18,22 @@
 
 
 </head>
+
+<h3>Light/Dark Mode</h3>
+<p>Skift til "Dark Mode" her, spar på strømmen og dermed CO2'en!</p>
+
+<button onclick="myFunction()">Dark Mode</button>
+
+<script>
+    function myFunction() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+    }
+</script>
+
 <body>
 
 <br>
-
 <a href="index.php">
     <div class="d-flex flex-column align-items-center text-center">
         <img src="img/logo1.webp" alt="Profil billede" href="index.php" class="img-fluid rounded-circle" width="150">
@@ -84,7 +96,13 @@
     </div>
 </nav>
 
-<div class="text-center text-success">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="text-center text-warning">
     <br>
     <h3 class="card-title">Følg os på de sociale medier!</h3>
     <p class="card-text">Du skal da ikke misse muligheden for at deltage i vores konkurrencer, eller opleve vores fede challenges?</p>

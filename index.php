@@ -19,7 +19,7 @@ require "settings/init.php";
 </head>
 
     <h3>Light/Dark Mode</h3>
-    <p>Skift til "Dark Mode" her, og spar på CO2'en!</p>
+    <p>Skift til "Dark Mode" her, spar på strømmen og dermed CO2'en!</p>
 
     <button onclick="myFunction()">Dark Mode</button>
 
@@ -108,6 +108,7 @@ require "settings/init.php";
                 <br>
             <h2 class="card-title">Ep. 3 > I samarbejde med NATURLI:
                 Influencers springer ud i det grønne:</h2>
+                <br>
         <div class="text-center text-primary">
             <nav class="bg-warning">
                 <br>

@@ -14,6 +14,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
+
+<h3>Light/Dark Mode</h3>
+<p>Skift til "Dark Mode" her, spar på strømmen og dermed CO2'en!</p>
+
+<button onclick="myFunction()">Dark Mode</button>
+
+<script>
+  function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  }
+</script>
+
 <body class="">
 <br>
 <a href="index.php">
@@ -29,7 +42,7 @@
   </div>
 </a>
 
-<nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
+<nav class="navbar navbar-expand-lg bg-success z-1 sticky-top">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -81,7 +94,7 @@
 <br>
 <br>
 <br>
-<div class="text-center text-success">
+<div class="text-center text-warning">
   <br>
   <h3 class="card-title">Følg os på de sociale medier!</h3>
   <p class="card-text">Du skal da ikke misse muligheden for at deltage i vores konkurrencer, eller opleve vores fede challenges?</p>
