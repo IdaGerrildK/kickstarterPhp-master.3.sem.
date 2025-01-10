@@ -17,7 +17,7 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
-
+<div class="mt-3 z-1 sticky-top">
     <h3>Light/Dark Mode</h3>
     <p>Skift til "Dark Mode" her, spar på strømmen og dermed CO2'en!</p>
 
@@ -29,7 +29,7 @@ require "settings/init.php";
             element.classList.toggle("dark-mode");
         }
     </script>
-
+</div>
 
 <body class="">
 <br>
