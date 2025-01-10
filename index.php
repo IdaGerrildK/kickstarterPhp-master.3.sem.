@@ -113,7 +113,7 @@ require "settings/init.php";
 <br>
 <br>
 
-
+<nav class="bg-primary">
 <div class="row g-4">
     <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
@@ -221,24 +221,6 @@ require "settings/init.php";
     <br>
     <br>
     <br>
-
-<h2 class="text-success text-center d-none d-lg-block">Videoen herunder, henvender sig til lærerne derude, så I kan få en fornemmelse af,
-    hvad I kan forvente, hvis I hyrer os til en time for at komme ud og holde et foredrag om miljøet på jeres skole.</h2>
-    <nav class="bg-primary">
-        <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3"></h1>
-        <div class="card mb-3">
-            <img class="card-img-bottom img-fluid" src="img/facebookvideolink.webp" alt="Card image cap" <a href="https://youtu.be/eXQDmQAS2Bc">
-</a>
-<br><br>
-<h2 class="text-success text-center d-none d-sm-block"> Her er en TikTok video, hvor du som ung kan få indsigt i, hvad klimaet går ud på.
-    <br> Warning: Ha' ordbogen klar, hvis du ikke er up-to-date med det nye.<br> Klik på kloden, hvis du tør</h2>
-<a href="https://youtube.com/shorts/C6PrfudewOs">
-    <nav class="bg-primary">
-        <h1 class="text-warning text-fluid text-center d-none d-lg-block text-bg-success p-3"></h1>
-        <div class="card mb-3">
-            <img alt src="img/jord%20copy.webp" class="img-fluid d-block">
-</a>
-    </nav>
             <br>
             <br>
             <br>
