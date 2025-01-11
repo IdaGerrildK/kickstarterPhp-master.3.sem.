@@ -96,6 +96,8 @@ require "settings/init.php";
 <br>
 <br>
 
+<img src=""
+
 <img alt src="img/infografikigen.webp" class="img-fluid d-block mx-auto"
 <br>
 <br>
