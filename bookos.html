@@ -1,9 +1,12 @@
+<?php
+require "settings/init.php";
+?>
 <!DOCTYPE html>
 <html lang="da" xmlns="http://www.w3.org/1999/html">
 <head>
   <meta charset="utf-8">
 
-  <title>Spring - Book os</title>
+  <title>Spring - spring ud i det grønne</title>
 
   <meta name="robots" content="All">
   <meta name="author" content="Udgiver">
@@ -14,18 +17,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
+<div class="mt-3 z-1 sticky-top ps-4">
+  <h3>Light/Dark Mode</h3>
+  <p>Skift til "Dark Mode" her, spar på strømmen og dermed CO2'en!</p>
 
-<h3>Light/Dark Mode</h3>
-<p>Skift til "Dark Mode" her, spar på strømmen og dermed CO2'en!</p>
+  <button onclick="myFunction()">Dark Mode</button>
 
-<button onclick="myFunction()">Dark Mode</button>
-
-<script>
-  function myFunction() {
-    var element = document.body;
-    element.classList.toggle("dark-mode");
-  }
-</script>
+  <script>
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
+</div>
 
 <body class="">
 <br>
@@ -42,7 +46,7 @@
   </div>
 </a>
 
-<nav class="navbar navbar-expand-lg bg-success z-1 sticky-top">
+<nav class="navbar navbar-expand-lg bg-secondary z-1 sticky-top">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -89,6 +93,8 @@
     </div>
   </div>
 </nav>
+<br>
+<br>
 <br>
 <br>
 <br>
