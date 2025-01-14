@@ -96,9 +96,9 @@ require "settings/init.php";
 <br>
 <br>
 
-<img src="img/eco.webp"
-
-<img alt src="img/infografikigen.webp" class="img-fluid d-block mx-auto"
+<div class="d-flex flex-column align-items-center text-center">
+    <img src="img/eco.webp" alt="Profil billede" class="img-fluid" width="800">
+</div>
 <br>
 <br>
 <br>
