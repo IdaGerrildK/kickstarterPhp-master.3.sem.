@@ -97,7 +97,7 @@ require "settings/init.php";
 <br>
 
 <div class="d-flex flex-column align-items-center text-center">
-    <img src="img/eco.webp" alt="Profil billede" class="img-fluid" width="800">
+    <img src="img/nyecoimg.webp" alt="Profil billede" class="img-fluid" width="800">
 </div>
 <br>
 <br>
